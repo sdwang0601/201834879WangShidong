@@ -2,7 +2,7 @@
 
 项目介绍：
 代码文件：VSMandKNN.py
-其他文件夹：testdata，traindata,etc. save data.
+其他文件：vctest.json and vctrain.json : save vector.
 
 VSMandKNN.py
 代码实现的主要功能介绍如下：
